@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreenath Bandivadekar</h1>
 <h3 align="center">An Android App Developer and NLP enthusiast</h3>
 
-<img alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://thumbs.dreamstime.com/b/realistic-mountains-landscape-morning-wood-panorama-pine-trees-silhouettes-vector-forest-background-hiking-147398373.jpg)">
 
 - 📫 How to reach me **shreenath8.b@gmail.com**
 
